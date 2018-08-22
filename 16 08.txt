@@ -1,0 +1,10 @@
+Done:
+English lesson.
+Comleted High level of the task for lecture 'Web services. Rest API'.
+Wrote test for tasks.
+
+Plans for tomorrow:
+Will comlete test by 100%.
+
+Problems:
+No problems.
